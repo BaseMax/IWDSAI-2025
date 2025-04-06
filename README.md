@@ -40,10 +40,9 @@ This will generate a PDF with the abstract for the conference.
 
 ## Conference Details
 
-- Conference Name: Fifth International Workshop on Dynamical Systems & AI (IWDS&AI 2025)
-- Dates: April 16-17, 2025
-
-Location: University of Kufa, AlNajaf, Iraq
+- **Conference Name:** Fifth International Workshop on Dynamical Systems & AI (IWDS&AI 2025)
+- **Dates:** April 16-17, 2025
+- **Location:** University of Kufa, AlNajaf, Iraq
 
 ## License
 
